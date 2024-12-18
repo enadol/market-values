@@ -1,0 +1,690 @@
+{
+  "players": [
+    {
+      "Player": "Florian Wirtz",
+      "Value": 130000000,
+      "Change": "+30.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Jamal Musiala",
+      "Value": 130000000,
+      "Change": "+18.18%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Harry Kane",
+      "Value": 100000000,
+      "Change": "-9.09%",
+      "Position": "FW",
+      "Age": 31
+    },
+    {
+      "Player": "Xavi Simons",
+      "Value": 80000000,
+      "Change": "+14.29%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Michael Olise",
+      "Value": 65000000,
+      "Change": "+30.00%",
+      "Position": "MF",
+      "Age": 23
+    },
+    {
+      "Player": "Lois Openda",
+      "Value": 60000000,
+      "Change": "+9.09%",
+      "Position": "FW",
+      "Age": 24
+    },
+    {
+      "Player": "Leroy Sané",
+      "Value": 60000000,
+      "Change": "-25.00%",
+      "Position": "FW",
+      "Age": 28
+    },
+    {
+      "Player": "Jeremie Frimpong",
+      "Value": 50000000,
+      "Change": null,
+      "Position": "MF",
+      "Age": 24
+    },
+    {
+      "Player": "Benjamin Šeško",
+      "Value": 50000000,
+      "Change": "+66.67%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Alphonso Davies",
+      "Value": 50000000,
+      "Change": "-28.57%",
+      "Position": "DF",
+      "Age": 24
+    },
+    {
+      "Player": "Joshua Kimmich",
+      "Value": 50000000,
+      "Change": "-33.33%",
+      "Position": "DF",
+      "Age": 29
+    },
+    {
+      "Player": "João Palhinha",
+      "Value": 50000000,
+      "Change": "-16.67%",
+      "Position": "MF",
+      "Age": 29
+    },
+    {
+      "Player": "Álex Grimaldo",
+      "Value": 45000000,
+      "Change": "+28.57%",
+      "Position": "DF",
+      "Age": 29
+    },
+    {
+      "Player": "Edmond Tapsoba",
+      "Value": 45000000,
+      "Change": "+12.50%",
+      "Position": "DF",
+      "Age": 25
+    },
+    {
+      "Player": "Victor Boniface",
+      "Value": 45000000,
+      "Change": "+12.50%",
+      "Position": "FW",
+      "Age": 23
+    },
+    {
+      "Player": "Dayot Upamecano",
+      "Value": 45000000,
+      "Change": "-25.00%",
+      "Position": "DF",
+      "Age": 26
+    },
+    {
+      "Player": "Min-Jae Kim",
+      "Value": 45000000,
+      "Change": "-25.00%",
+      "Position": "DF",
+      "Age": 28
+    },
+    {
+      "Player": "Exequiel Palacios",
+      "Value": 45000000,
+      "Change": "+12.50%",
+      "Position": "MF",
+      "Age": 26
+    },
+    {
+      "Player": "Enzo Millot",
+      "Value": 42000000,
+      "Change": "+68.00%",
+      "Position": "MF",
+      "Age": 22
+    },
+    {
+      "Player": "Piero Hincapié",
+      "Value": 40000000,
+      "Change": "+14.29%",
+      "Position": "DF",
+      "Age": 22
+    },
+    {
+      "Player": "Castello Lukeba",
+      "Value": 40000000,
+      "Change": null,
+      "Position": "DF",
+      "Age": 21
+    },
+    {
+      "Player": "Gregor Kobel",
+      "Value": 40000000,
+      "Change": null,
+      "Position": "GK",
+      "Age": 27
+    },
+    {
+      "Player": "Nico Schlotterbeck",
+      "Value": 40000000,
+      "Change": "+14.29%",
+      "Position": "DF",
+      "Age": 25
+    },
+    {
+      "Player": "Julian Brandt",
+      "Value": 40000000,
+      "Change": null,
+      "Position": "MF",
+      "Age": 28
+    },
+    {
+      "Player": "Donyell Malen",
+      "Value": 40000000,
+      "Change": "+14.29%",
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Omar Marmoush",
+      "Value": 40000000,
+      "Change": "+166.67%",
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Kingsley Coman",
+      "Value": 40000000,
+      "Change": "-38.46%",
+      "Position": "FW",
+      "Age": 28
+    },
+    {
+      "Player": "Mathys Tel",
+      "Value": 40000000,
+      "Change": "-20.00%",
+      "Position": "FW",
+      "Age": 19
+    },
+    {
+      "Player": "Sehrou Guirassy",
+      "Value": 40000000,
+      "Change": null,
+      "Position": "FW",
+      "Age": 28
+    },
+    {
+      "Player": "Mohamed Simakan",
+      "Value": 35000000,
+      "Change": null,
+      "Position": "DF",
+      "Age": 24
+    },
+    {
+      "Player": "Karim Adeyemi",
+      "Value": 35000000,
+      "Change": "+25.00%",
+      "Position": "FW",
+      "Age": 22
+    },
+    {
+      "Player": "Jamie Bynoe-Gittens",
+      "Value": 35000000,
+      "Change": "+25.00%",
+      "Position": "FW",
+      "Age": 20
+    },
+    {
+      "Player": "Lutsharel Geertruida",
+      "Value": 32000000,
+      "Change": "-8.57%",
+      "Position": "DF",
+      "Age": 24
+    },
+    {
+      "Player": "Jonathan Tah",
+      "Value": 30000000,
+      "Change": "+20.00%",
+      "Position": "DF",
+      "Age": 28
+    },
+    {
+      "Player": "Amine Adli",
+      "Value": 30000000,
+      "Change": "+20.00%",
+      "Position": "FW",
+      "Age": 24
+    },
+    {
+      "Player": "Kossonou Odilon",
+      "Value": 30000000,
+      "Change": "-14.29%",
+      "Position": "DF",
+      "Age": 23
+    },
+    {
+      "Player": "Maximilian Beier",
+      "Value": 30000000,
+      "Change": "+150.00%",
+      "Position": "FW",
+      "Age": 22
+    },
+    {
+      "Player": "Konrad Laimer",
+      "Value": 30000000,
+      "Change": "+7.14%",
+      "Position": "MF",
+      "Age": 27
+    },
+    {
+      "Player": "Angelo Stiller",
+      "Value": 28000000,
+      "Change": "+100.00%",
+      "Position": "MF",
+      "Age": 23
+    },
+    {
+      "Player": "Ermedin Demirović",
+      "Value": 28000000,
+      "Change": "+40.00%",
+      "Position": "FW",
+      "Age": 26
+    },
+    {
+      "Player": "Deniz Undav",
+      "Value": 28000000,
+      "Change": "+64.71%",
+      "Position": "FW",
+      "Age": 28
+    },
+    {
+      "Player": "Hugo Larsson",
+      "Value": 28000000,
+      "Change": null,
+      "Position": "MF",
+      "Age": 20
+    },
+    {
+      "Player": "Xaver Schlager",
+      "Value": 28000000,
+      "Change": null,
+      "Position": "MF",
+      "Age": 27
+    },
+    {
+      "Player": "David Raum",
+      "Value": 25000000,
+      "Change": "+47.06%",
+      "Position": "DF",
+      "Age": 26
+    },
+    {
+      "Player": "Yan Couto",
+      "Value": 25000000,
+      "Change": "+108.33%",
+      "Position": "DF",
+      "Age": 22
+    },
+    {
+      "Player": "Arthur Vermeeren",
+      "Value": 25000000,
+      "Change": "-16.67%",
+      "Position": "MF",
+      "Age": 19
+    },
+    {
+      "Player": "Waldemar Anton",
+      "Value": 24000000,
+      "Change": "+140.00%",
+      "Position": "DF",
+      "Age": 28
+    },
+    {
+      "Player": "Nathan Tella",
+      "Value": 23000000,
+      "Change": null,
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Patrik Schick",
+      "Value": 22000000,
+      "Change": null,
+      "Position": "FW",
+      "Age": 30
+    },
+    {
+      "Player": "Chris Führich",
+      "Value": 22000000,
+      "Change": "+29.41%",
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Martin Terrier",
+      "Value": 20000000,
+      "Change": "-9.09%",
+      "Position": "FW",
+      "Age": 26
+    },
+    {
+      "Player": "El Bilal Touré",
+      "Value": 20000000,
+      "Change": null,
+      "Position": "FW",
+      "Age": 22
+    },
+    {
+      "Player": "Ritsu Doan",
+      "Value": 18000000,
+      "Change": null,
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Adam Hložek",
+      "Value": 18000000,
+      "Change": "+20.00%",
+      "Position": "FW",
+      "Age": 22
+    },
+    {
+      "Player": "Jonathan Burkardt",
+      "Value": 15000000,
+      "Change": "+114.29%",
+      "Position": "FW",
+      "Age": 24
+    },
+    {
+      "Player": "Patrick Wimmer",
+      "Value": 15000000,
+      "Change": "-16.67%",
+      "Position": "MF",
+      "Age": 23
+    },
+    {
+      "Player": "Jonas Wind",
+      "Value": 15000000,
+      "Change": "-40.00%",
+      "Position": "FW",
+      "Age": 25
+    },
+    {
+      "Player": "Roland Sallai",
+      "Value": 14000000,
+      "Change": "+16.67%",
+      "Position": "FW",
+      "Age": 26
+    },
+    {
+      "Player": "Jamie Leweling",
+      "Value": 13000000,
+      "Change": "+188.89%",
+      "Position": "FW",
+      "Age": 23
+    },
+    {
+      "Player": "Romano Schmid",
+      "Value": 13000000,
+      "Change": "+100.00%",
+      "Position": "MF",
+      "Age": 23
+    },
+    {
+      "Player": "Lovro Majer",
+      "Value": 20000000,
+      "Change": "-20.00%",
+      "Position": "MF",
+      "Age": 25
+    },
+    {
+      "Player": "Mohamed Amoura",
+      "Value": 16000000,
+      "Change": "+60.00%",
+      "Position": "MF",
+      "Age": 23
+    },
+    {
+      "Player": "Eljif Elmas",
+      "Value": 15000000,
+      "Change": "-37.50%",
+      "Position": "MF",
+      "Age": 24
+    },
+    {
+      "Player": "Anton Stach",
+      "Value": 15000000,
+      "Change": null,
+      "Position": "MF",
+      "Age": 26
+    },
+    {
+      "Player": "Paul Wanner",
+      "Value": 15000000,
+      "Change": "+328.57%",
+      "Position": "MF",
+      "Age": 20
+    },
+    {
+      "Player": "Felix Nmecha",
+      "Value": 20000000,
+      "Change": "-20.00%",
+      "Position": "MF",
+      "Age": 22
+    },
+    {
+      "Player": "Christoph Baumgartner",
+      "Value": 18000000,
+      "Change": "-25.00%",
+      "Position": "MF",
+      "Age": 24
+    },
+    {
+      "Player": "Robert Andrich",
+      "Value": 17000000,
+      "Change": "+54.55%",
+      "Position": "MF",
+      "Age": 29
+    },
+    {
+      "Player": "Nicolas Seiwald",
+      "Value": 16000000,
+      "Change": "-20.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Diogo Leite",
+      "Value": 15000000,
+      "Change": null,
+      "Position": "DF",
+      "Age": 24
+    },
+    {
+      "Player": "Philipp Lienhart",
+      "Value": 15000000,
+      "Change": "-25.00%",
+      "Position": "DF",
+      "Age": 27
+    },
+    {
+      "Player": "Niklas Süle",
+      "Value": 15000000,
+      "Change": "-31.82%",
+      "Position": "DF",
+      "Age": 28
+    },
+    {
+      "Player": "Kiliann Sildillia",
+      "Value": 15000000,
+      "Change": "-16.67%",
+      "Position": "DF",
+      "Age": 23
+    },
+    {
+      "Player": "Joakim Mæhle",
+      "Value": 14000000,
+      "Change": null,
+      "Position": "DF",
+      "Age": 27
+    },
+    {
+      "Player": "Tim Drexler",
+      "Value": 4000000,
+      "Change": "+3100.00%",
+      "Position": "DF",
+      "Age": 21
+    },
+    {
+      "Player": "Anrie Chase",
+      "Value": 2500000,
+      "Change": "+1011.11%",
+      "Position": "DF",
+      "Age": 21
+    },
+    {
+      "Player": "Felix Agu",
+      "Value": 6000000,
+      "Change": "+900.00%",
+      "Position": "DF",
+      "Age": 25
+    },
+    {
+      "Player": "Igor Matanovic",
+      "Value": 8000000,
+      "Change": "+700.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Maximilian Breunig",
+      "Value": 2000000,
+      "Change": "+566.67%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Keke Topp",
+      "Value": 4000000,
+      "Change": "+471.43%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Tim Oermann",
+      "Value": 4000000,
+      "Change": "+400.00%",
+      "Position": "DF",
+      "Age": 22
+    },
+    {
+      "Player": "Max Rosenfelder",
+      "Value": 2500000,
+      "Change": "+400.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Justin Diehl",
+      "Value": 2500000,
+      "Change": "+400.00%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Johan Manzambi",
+      "Value": 750000,
+      "Change": "+400.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Robin Hranáč",
+      "Value": 8000000,
+      "Change": "+370.59%",
+      "Position": "DF",
+      "Age": 21
+    },
+    {
+      "Player": "Mert Kömür",
+      "Value": 2000000,
+      "Change": "+300.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Michael Zetterer",
+      "Value": 4000000,
+      "Change": "+300.00%",
+      "Position": "GK",
+      "Age": 23
+    },
+    {
+      "Player": "Max Geschwill",
+      "Value": 1000000,
+      "Change": "+263.64%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Umut Tohumcu",
+      "Value": 7000000,
+      "Change": "+250.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Justin Njinmah",
+      "Value": 9000000,
+      "Change": "+200.00%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Moritz Broschinski",
+      "Value": 3000000,
+      "Change": "+200.00%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Nicolai Remberg",
+      "Value": 1800000,
+      "Change": "+200.00%",
+      "Position": "MF",
+      "Age": 21
+    },
+    {
+      "Player": "Jean-Mattéo Bahoya",
+      "Value": 7500000,
+      "Change": "+200.00%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Mio Backhaus",
+      "Value": 2000000,
+      "Change": "+185.71%",
+      "Position": "GK",
+      "Age": 21
+    },
+    {
+      "Player": "Benedict Hollerbach",
+      "Value": 5000000,
+      "Change": "+177.78%",
+      "Position": "FW",
+      "Age": 21
+    },
+    {
+      "Player": "Philipp Treu",
+      "Value": 2500000,
+      "Change": "+177.78%",
+      "Position": "DF",
+      "Age": 21
+    },
+    {
+      "Player": "Robin Hack",
+      "Value": 8000000,
+      "Change": "+166.67%",
+      "Position": "FW",
+      "Age": 23
+    },
+    {
+      "Player": "Konstantinos Koulierakis",
+      "Value": 12000000,
+      "Change": "+166.67%",
+      "Position": "MF",
+      "Age": 21
+    }
+  ]
+}
